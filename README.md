@@ -11,6 +11,9 @@
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
+<h3>Easiest Way</h3>
+<b>For Android Use <a href="https://play.google.com/store/apps/details?id=org.telegram.plus">Plus Messenger</a></b>
+
 <h3>Easy Way (Coding)</h3>
   <b><a href="https://youtu.be/swg6un2N4Fk">How To Deploy?</a></b><br>
 
